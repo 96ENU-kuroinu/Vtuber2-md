@@ -3,7 +3,7 @@
 以下の環境で動作を確認しております。
 
 ## OS
-+ Windows8.1^[Windows8.1はOBS Studioの`Windows Graphic Capture`が使用できないため、OBSでのキャプチャに制限が発生します。]
++ Windows8.1[^1]
 + Windows10
 + Windows11
 
@@ -12,10 +12,10 @@
 + Intel Core i5-10400F 2.90[GHz]
 
 ## メモリ
-+ 4GB以上^[使用する画像データにより、およそ100MB～500MBのメモリを消費します。]
++ 4GB以上[^2]
 
 ## ストレージ
-+ 128GB以上^[インストールに必要な容量は数十MBです。]
++ 128GB以上[^3]
 
 ## マイク
 + Blue Microphones Yeti
@@ -26,3 +26,7 @@
 
 ---
 [トップページに戻る](index_top.md#falhong-cha)
+
+[^1]: Windows8.1はOBS Studioの`Windows Graphic Capture`が使用できないため、OBSでのキャプチャに制限が発生します。
+[^2]: 使用する画像データにより、およそ100MB～500MBのメモリを消費します。
+[^3]: インストールに必要な容量は数十MBです。
