@@ -25,6 +25,7 @@
 + NVIDIA GeForce 1030
 
 ---
+[だれでもVtuber 目次ページに戻る](index_vtuber2.md)
 [トップページに戻る](index_top.md#falhong-cha)
 
 [^1]: Windows8.1はOBS Studioの`Windows Graphic Capture`が使用できないため、OBSでのキャプチャに制限が発生します。
