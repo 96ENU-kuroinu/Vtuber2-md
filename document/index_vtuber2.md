@@ -1,6 +1,6 @@
 # だれでもVtuber
 ---
-## 動作環境
+## [動作環境](system_requirements.md)
 ## 操作・機能説明:Ver2
 ## Q&A:Ver2
 ## GIFアニメの中割りについて
