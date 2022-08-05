@@ -20,7 +20,7 @@
 + 棒読みちゃんやDiscordの通話相手の音声を使用したい
 
 ## その他
-+ 「だれでもVtuber」の商用利用について
++ [「だれでもVtuber」の商用利用について](vtuber2_business_use.md)
 + 「だれでもVtuber」に対応したイラスト依頼について
 + [Ver1とVer2の違いが知りたい](diff_ver1_ver2.md)
 + 商品名の【64bit】ってなに？
