@@ -8,7 +8,7 @@
 + `MP4`
 
 ---
-[だれでもVtuber 目次ページに戻る](index_vtuber2.md)
-[トップページに戻る](index_top.md#falhong-cha)
++ [だれでもVtuber 目次ページに戻る](index_vtuber2.md)
++ [トップページに戻る](index_top.md#falhong-cha)
 
 [^1]: 拡張子の大文字、小文字には依存しません。

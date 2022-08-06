@@ -33,5 +33,5 @@
 + 「だれでもVtuber」でメモリ不足のエラーが発生する
 
 ---
-[だれでもVtuber 目次ページに戻る](index_vtuber2.md)
-[トップページに戻る](index_top.md#falhong-cha)
++ [だれでもVtuber 目次ページに戻る](index_vtuber2.md)
++ [トップページに戻る](index_top.md#falhong-cha)
