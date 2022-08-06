@@ -8,8 +8,8 @@
 (Twitterで[「#だれでもVtuber」でツイート](https://twitter.com/intent/tweet?hashtags=%E3%81%A0%E3%82%8C%E3%81%A7%E3%82%82Vtuber)していただくと開発者が喜びます)
 
 ---
-[だれでもVtuber QA 目次ページに戻る](index_vtuber2_qa.md)
-[だれでもVtuber 目次ページに戻る](index_vtuber2.md)
-[トップページに戻る](index_top.md#falhong-cha)
++ [だれでもVtuber QA 目次ページに戻る](index_vtuber2_qa.md)
++ [だれでもVtuber 目次ページに戻る](index_vtuber2.md)
++ [トップページに戻る](index_top.md#falhong-cha)
 
 [^1]: 動画概要欄等へのクレジット表記についても、任意といたします。

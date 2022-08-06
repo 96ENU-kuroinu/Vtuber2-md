@@ -15,5 +15,5 @@
 | 登録可能表情数                   | 4(`Ctrl`+矢印キー)           | 14(`Ctrl`+矢印キー、`Ctrl`+数字キー)            | 
 
 ---
-[だれでもVtuber 目次ページに戻る](index_vtuber2.md)
-[トップページに戻る](index_top.md#falhong-cha)
++ [だれでもVtuber 目次ページに戻る](index_vtuber2.md)
++ [トップページに戻る](index_top.md#falhong-cha)
