@@ -37,11 +37,13 @@ Just-In-Time (JIT) デバッグを呼び出すための詳細については、
         C:\InstantV_2\Setting\keymouse.csv
         C:\InstantV_2\Setting\shortcuts.csv
         ```
-    + こちらからファイルをダウンロードし、同じ場所に再配置してください。
-        + [keymouse.csv](csv/keymouse.csv)
-        + [shortcuts.csv](csv/shortcuts.csv)
+    + こちらからファイルをダウンロードし[^1]、同じ場所に再配置してください。
+        + [keymouse.csv](https://raw.githubusercontent.com/96ENU-kuroinu/Vtuber2-md/main/document/csv/keymouse.csv)
+        + [shortcuts.csv](https://raw.githubusercontent.com/96ENU-kuroinu/Vtuber2-md/main/document/csv/shortcuts.csv)
 
 ---
 + [だれでもVtuber QA 目次ページに戻る](index_vtuber2_qa.md)
 + [だれでもVtuber 目次ページに戻る](index_vtuber2.md)
 + [トップページに戻る](index_top.md#falhong-cha)
+
+[^1]: `名前を付けてリンク先を保存`を選択してください。
