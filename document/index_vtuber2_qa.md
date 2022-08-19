@@ -9,7 +9,7 @@
 
 ## OBSでのキャプチャについて
 + [OBSでキャプチャすると画面が真っ暗になる](vtuber2_obs_1.md)
-+ 透過PNG、透過GIFをOBSでキャプチャすると透過部分が黒くなる
++ [透過PNG、透過GIFをOBSでキャプチャすると透過部分が黒くなる](vtuber2_obs_2.md)
 
 + <ruby>GB<rp>（</rp><rt>グリーンバック</rt><rp>）</rp></ruby>画像、<ruby>BB<rp>（</rp><rt>ブルーバック</rt><rp>）</rp></ruby>画像をOBSでキャプチャするとフチに黒い背景が表示される
 + OBSに複数の「だれでもVtuber」ウィンドウをキャプチャさせたい
