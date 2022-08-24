@@ -12,7 +12,7 @@
 + [透過PNG、透過GIFをOBSでキャプチャすると透過部分が黒くなる](vtuber2_obs_2.md)
 
 + [<ruby>GB<rp>（</rp><rt>グリーンバック</rt><rp>）</rp></ruby>画像、<ruby>BB<rp>（</rp><rt>ブルーバック</rt><rp>）</rp></ruby>画像をOBSでキャプチャするとフチに黒い背景が表示される](vtuber2_obs_3.md)
-+ OBSに複数の「だれでもVtuber」ウィンドウをキャプチャさせたい
++ [OBSに複数の「だれでもVtuber」ウィンドウをキャプチャさせたい](vtuber2_obs_4.md)
 
 ## 音声入力について
 + 音声が認識されない
