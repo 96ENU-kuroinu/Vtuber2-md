@@ -1,12 +1,5 @@
 # 400-MAW1215W
-
-<div style="text-align: center">
-<figure>
-<img src="images\400-maw1215w_001.jpg" style="width:100%; max-width:400px;">
-<figcaption>出典：<a href="https://direct.sanwa.co.jp/ItemPage/400-MAW1215W">https://direct.sanwa.co.jp/ItemPage/400-MAW1215W</a></figcaption>
-</figure>
-</div>
-
+---
 + 充電式
     + 充電端子はmicro-USB
     + レシーバ側はUSB Type-Cに対応しているので、充電端子も対応させてほしかった

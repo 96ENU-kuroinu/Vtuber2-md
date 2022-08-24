@@ -1,12 +1,5 @@
 # TK-FBP102
-
-<div style="text-align: center">
-<figure>
-<img src="images\tk-fbp102_001.jpg" style="width:100%; max-width:600px;">
-<figcaption>出典：<a href="https://www.elecom.co.jp/products/TK-FBP102BU.html">https://www.elecom.co.jp/products/TK-FBP102BU.html</a></figcaption>
-</figure>
-</div>
-
+---
 + 薄型・軽量のBluetoothキーボード
 + 乾電池駆動なので好みが分かれるところ
     + 内臓バッテリーの寿命以上に使い続ける予定があるなら、乾電池のほうがいい
