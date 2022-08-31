@@ -3,7 +3,9 @@
 ## 電子書籍に特化したE Inkディスプレイ
 + Amazonは「Paperwhiteディスプレイ」と宣伝
 + 仕組みは、公園にあるこの遊具と同じ
-![](/images/tick_tack_toe.jpg)
+
+![](images/tick_tack_toe.jpg)
+
 + 「:o:と:x:を大量に並べて、どのくらい傾けるか」で、文字や画像が表現できる
 ### メリット
 + カラー液晶は3つのLED(赤・青・緑)で1ドット
