@@ -10,6 +10,7 @@
 ## スマホ
 ---
 ## タブレット
++ [Kindle Paperwhite 11世代(8GB)](review_kindle_paperwhite_11th.md)
 ---
 ## 本
 + [え、社内システム全てワンオペしている私を解雇ですか？〈試し読み増量版〉 (PASH! ブックス) Kindle版](kindle_1661070285.md)
